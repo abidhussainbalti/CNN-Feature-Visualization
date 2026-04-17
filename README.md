@@ -174,4 +174,4 @@ For full explanations of every concept, see [METHODOLOGY.md](METHODOLOGY.md).
 
 ---
 
-*NUST — SEECS | Deep Learning | Lab 04 | 2026*
+*NUST — SINES | Deep Learning in Life Sciences | Lab 04 | 2026*
